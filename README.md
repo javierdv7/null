@@ -1,6 +1,6 @@
 # Proyecto DCCREEPYPASTA
 
-![estado](https://img.shields.io/badge/sello-Autorizado_por_el_Ritual-red)
+![estado](https://img.shields.io/badge/don't-RUN_THIS-green)
 
 
 
