@@ -1,6 +1,7 @@
 # Proyecto DCCREEPYPASTA
 
-![glitch](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+![estado](https://img.shields.io/badge/sello-Autorizado_por_el_Ritual-red)
+
 
 
 > **Simulación de sistema estilo creepypasta. No estás siendo hackeado. Repite: no estás siendo hackeado.**
