@@ -1,5 +1,8 @@
 # Proyecto DCCREEPYPASTA
 
+![glitch](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+
+
 > **Simulación de sistema estilo creepypasta. No estás siendo hackeado. Repite: no estás siendo hackeado.**
 
 ---
