@@ -1,6 +1,6 @@
 # Proyecto DCCREEPYPASTA
 
-> ** Simulación de sistema estilo creepypasta. No estás siendo hackeado. Repite: no estás siendo hackeado.**
+> **Simulación de sistema estilo creepypasta. No estás siendo hackeado. Repite: no estás siendo hackeado.**
 
 ---
 
