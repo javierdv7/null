@@ -2,9 +2,10 @@
 
 ![estado](https://img.shields.io/badge/don't-RUN_THIS-green)
 
-
-
-> **Simulación de sistema estilo creepypasta. No estás siendo hackeado. Repite: no estás siendo hackeado.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F70000&center=true&width=435&lines=No+deber%C3%ADas+estar+aqu%C3%AD...;Pero+ya+es+demasiado+tarde."/>
+</p>
+<!-- Código de emergencia: 13-13-13. Solo en luna nueva. -->
 
 ---
 
@@ -33,6 +34,12 @@ Si escuchas algo más allá del audio… probablemente es solo tu conciencia act
 ---
 
 ## Cómo ejecutarlo
+
+<details>
+  <summary>¿Estás seguro que quieres ver esto?</summary>
+
+  Ritual completado. Si escuchas una segunda respiración... no estás solo.
+</details>
 
 ```bash
 python3 0001-dont-run-this.py
