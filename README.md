@@ -42,4 +42,4 @@ Si escuchas algo más allá del audio… probablemente es solo tu conciencia act
 </details>
 
 ```bash
-python3 0001-dont-run-this.py
+python 0001-dont-run-this.py
