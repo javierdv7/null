@@ -265,7 +265,7 @@ def mainplay(seed=13):
     fake_typing(f"usuario: {info['usuario']}")
     fake_typing(f"sistema operativo: {info['sistema']}")
     subir_volumen_al_maximo()
-    reproducir_audio_final("null.mp3")
+    reproducir_audio_final("null.wav")
 
     time.sleep(1)
     fake_typing("te conozco :)")
