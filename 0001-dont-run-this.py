@@ -274,8 +274,8 @@ def mainplay(seed=13):
     reveal_text("?????????????", "DCCREEPYPASTA")
 
     time.sleep(0.7)
-    fake_typing("\n^C\nKeyboardInterrupt")
-    raise Exception("La ejecución no fue interrumpida por el usuario.")
+    fake_typing("\n^666\nSoulInterrupt")
+    raise Exception("La ejecución f4110 d35d3 36 36 36 3A 29.")
 
 
 if __name__ == "__main__":
