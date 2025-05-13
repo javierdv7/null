@@ -41,5 +41,14 @@ Si escuchas algo más allá del audio… probablemente es solo tu conciencia act
   Ritual completado. Si escuchas una segunda respiración... no estás solo.
 </details>
 
+### Windows
+
+**Última versión:** `0001-dont-run-this.exe`  
+_(no requiere Python instalado)_
+
+### Linux or MacOS
+
 ```bash
+# Solo si estás ejecutando el código fuente (.py) directamente
 python 0001-dont-run-this.py
+
